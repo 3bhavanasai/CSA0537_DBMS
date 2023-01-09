@@ -1,0 +1,7 @@
+create table students1;
+  insert into students1 values(1,'A',7,81);
+ insert into students1 values(2,'B',7,98);
+insert into students1 values(3,'C',7,56);
+ insert into students1 values(4,'D',7,70);
+ select * from students1 where marks between 80 and 100;
+select * from students1 where name in('B','C');
