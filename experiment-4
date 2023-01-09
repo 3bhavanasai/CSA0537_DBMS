@@ -1,0 +1,6 @@
+create database student;
+ create table(st_id int, name char(20), dept char(20));
+insert into student values(123,'ram','CSE');
+insert into student values(124,'raj','ECE');
+update students set dept='EEE' where st_id=124;
+ delete from student where dept='CSE';
