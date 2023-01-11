@@ -17,3 +17,9 @@ https://github.com/3bhavanasai/CSA0537_DBMS/blob/main/experiment-2
 <img width="245" alt="check key" src="https://user-images.githubusercontent.com/113408005/211859765-25efa58a-8f56-457d-a8a3-e057574f36a9.png">
 
 ###EXPEIMENT-3
+https://github.com/3bhavanasai/CSA0537_DBMS/blob/main/experiment-3
+
+<img width="513" alt="insert stude" src="https://user-images.githubusercontent.com/113408005/211860402-252abca4-6a7c-4a3b-8277-a075a00c0d47.png">
+<img width="767" alt="select stude" src="https://user-images.githubusercontent.com/113408005/211860487-dbe26748-395f-415c-b223-49305cc3f0e2.png">
+
+###
