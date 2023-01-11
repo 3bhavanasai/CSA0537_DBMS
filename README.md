@@ -9,3 +9,11 @@ https://github.com/3bhavanasai/CSA0537_DBMS/blob/main/experiment-1
 <img width="528" alt="modify fac" src="https://user-images.githubusercontent.com/113408005/211856723-6d59876d-8f75-46eb-8167-b596cb79de4a.png">
 
 ###EXPERIMENT-2
+https://github.com/3bhavanasai/CSA0537_DBMS/blob/main/experiment-2
+
+<img width="960" alt="primary" src="https://user-images.githubusercontent.com/113408005/211858555-78e3a2d0-4bb3-4ecb-a7de-3840d207c922.png">
+<img width="960" alt="foreign" src="https://user-images.githubusercontent.com/113408005/211858999-aa8b1c6b-0df4-4fa6-aa80-f756775e2c26.png">
+<img width="545" alt="unique key" src="https://user-images.githubusercontent.com/113408005/211859606-9e988c3e-351f-4afa-b311-62399102cf50.png">
+<img width="245" alt="check key" src="https://user-images.githubusercontent.com/113408005/211859765-25efa58a-8f56-457d-a8a3-e057574f36a9.png">
+
+###EXPEIMENT-3
