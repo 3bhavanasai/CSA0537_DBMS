@@ -24,3 +24,11 @@ https://github.com/3bhavanasai/CSA0537_DBMS/blob/main/experiment-3
 
 ###EXPERIMENT-4
 
+https://github.com/3bhavanasai/CSA0537_DBMS/blob/main/experiment-4
+
+<img width="384" alt="update stude" src="https://user-images.githubusercontent.com/113408005/211974518-181173ad-cd2a-43f0-9fd2-892676be3ff4.png">
+<img width="411" alt="delete stude" src="https://user-images.githubusercontent.com/113408005/211974556-f1f025be-5d5c-406b-8dae-0ffd0890b283.png">
+
+###EXPERIMENT-5
+
+
