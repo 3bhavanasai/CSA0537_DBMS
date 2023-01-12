@@ -1,0 +1,4 @@
+use student1;
+Database changed
+select* from student;
+SELECT COURSE_NO, COUNT(REGISTER_NO) FROM STUDENT GROUP BY COURSE_NO;
