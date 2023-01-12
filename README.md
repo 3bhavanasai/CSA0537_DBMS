@@ -33,17 +33,6 @@ https://github.com/3bhavanasai/CSA0537_DBMS/blob/main/experiment-4
 
 https://github.com/3bhavanasai/CSA0537_DBMS/blob/main/experiment-5
 
-###EXPERIMENT-7
-
-https://github.com/3bhavanasai/CSA0537_DBMS/blob/main/experiment-7
-
-<img width="478" alt="image" src="https://user-images.githubusercontent.com/113408005/211975844-38509c15-fd3e-4800-bd21-e455467b3db3.png">
-
-###EXPERIMENT-8
-
-
-
-
 <img width="394" alt="where stude" src="https://user-images.githubusercontent.com/113408005/211974909-2aba6fd7-231c-4df8-ba33-2b4db5d78317.png">
 
 ###EXPERIMNET-6
@@ -52,6 +41,27 @@ https://github.com/3bhavanasai/CSA0537_DBMS/blob/main/experiment-6
 
 <img width="671" alt="between stude" src="https://user-images.githubusercontent.com/113408005/211975143-46c3b682-e05f-4bab-ab4f-e80202d077be.png">
 <img width="513" alt="in stude" src="https://user-images.githubusercontent.com/113408005/211975181-dc981415-7923-44b3-851c-c3c6570a345a.png">
+
+###EXPERIMENT-7
+
+https://github.com/3bhavanasai/CSA0537_DBMS/blob/main/experiment-7
+
+<img width="478" alt="image" src="https://user-images.githubusercontent.com/113408005/211975844-38509c15-fd3e-4800-bd21-e455467b3db3.png">
+
+###EXPERIMENT-8
+
+https://github.com/3bhavanasai/CSA0537_DBMS/blob/main/experiment-8
+
+<img width="378" alt="Screenshot_20230109_211235" src="https://user-images.githubusercontent.com/113408005/211976475-e83d9f89-f7a0-4641-8d60-81fc5e38c026.png">
+<img width="214" alt="8" src="https://user-images.githubusercontent.com/113408005/211977239-1286e8b1-8e48-4b84-9b62-b55c40588c91.png">
+
+###EXPERIMENT-9
+
+
+
+
+
+
 
 
 
