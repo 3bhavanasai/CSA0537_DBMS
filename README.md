@@ -33,6 +33,17 @@ https://github.com/3bhavanasai/CSA0537_DBMS/blob/main/experiment-4
 
 https://github.com/3bhavanasai/CSA0537_DBMS/blob/main/experiment-5
 
+###EXPERIMENT-7
+
+https://github.com/3bhavanasai/CSA0537_DBMS/blob/main/experiment-7
+
+<img width="478" alt="image" src="https://user-images.githubusercontent.com/113408005/211975844-38509c15-fd3e-4800-bd21-e455467b3db3.png">
+
+###EXPERIMENT-8
+
+
+
+
 <img width="394" alt="where stude" src="https://user-images.githubusercontent.com/113408005/211974909-2aba6fd7-231c-4df8-ba33-2b4db5d78317.png">
 
 ###EXPERIMNET-6
