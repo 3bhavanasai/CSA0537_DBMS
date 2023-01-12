@@ -83,6 +83,16 @@ https://github.com/3bhavanasai/CSA0537_DBMS/blob/main/experiment-12
 <img width="487" alt="image" src="https://user-images.githubusercontent.com/113408303/211993278-f43af678-c74d-441d-aa37-e5f5e4a897e4.png">
 <img width="452" alt="image" src="https://user-images.githubusercontent.com/113408303/212009232-8e7c2e56-9528-4953-b175-7fe477fa145a.png">
 
+###EXPERIMENT-13
+
+https://github.com/3bhavanasai/CSA0537_DBMS/blob/main/experiment-13
+
+<img width="515" alt="image" src="https://user-images.githubusercontent.com/113408303/212015248-4cdfb6dc-f370-4ff8-8a4d-d6d18f01fe6f.png">
+
+###EXPERIMENT-14
+
+
+
 
 
 
