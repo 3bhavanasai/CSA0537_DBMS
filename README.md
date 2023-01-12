@@ -62,6 +62,13 @@ https://github.com/3bhavanasai/CSA0537_DBMS/blob/main/experiment-9
 <img width="459" alt="inner join" src="https://user-images.githubusercontent.com/113408005/211977695-f6b69f8e-ad04-4454-b6e5-bc9b24f4c5dc.png">
 <img width="459" alt="inner join" src="https://user-images.githubusercontent.com/113408005/211977725-bea2fe24-4a6d-40b3-bb04-a28fe2ab0e7e.png">
 
+###EXPERIMENT-10
+
+
+<img width="392" alt="Screenshot_20230112_111650" src="https://user-images.githubusercontent.com/113408303/211987749-11f30a11-56e8-459e-ba6e-b7c4c2308a3b.png">
+<img width="191" alt="image" src="https://user-images.githubusercontent.com/113408303/211987868-54228d1b-38a8-45cb-a3f4-952539d80215.png">
+
+
 
 
 
