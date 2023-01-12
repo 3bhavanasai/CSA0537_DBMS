@@ -1,4 +1,4 @@
-#### CSA0537_DBMS
+# CSA0537_DBMS
 ### EXPERIMENT-1
 https://github.com/3bhavanasai/CSA0537_DBMS/blob/main/experiment-1
 
@@ -100,6 +100,55 @@ https://github.com/3bhavanasai/CSA0537_DBMS/blob/main/experiment-14
 https://github.com/3bhavanasai/CSA0537_DBMS/blob/main/experiment-15
 
 <img width="176" alt="15" src="https://user-images.githubusercontent.com/113408005/212094409-28fcfe0d-62ce-4059-80db-72511c2ed1a2.png">
+
+### EXPERIMENT-16
+
+<img width="190" alt="image" src="https://user-images.githubusercontent.com/113408005/212100417-c0040d13-b0ae-47f3-8edc-cff467cc86d6.png">
+<img width="202" alt="image" src="https://user-images.githubusercontent.com/113408005/212100521-1b5f3dce-6a17-4a8b-b19e-db14f734af8b.png">
+
+### EXPERIMENT-17
+
+<img width="279" alt="image" src="https://user-images.githubusercontent.com/113408005/212100642-cfc412c6-79c5-472b-ac1a-6db8ed2c8a9c.png">
+
+### EXPERIMENT-18
+
+<img width="344" alt="image" src="https://user-images.githubusercontent.com/113408005/212100792-0f8e402e-ecc4-4451-8f49-af750d356936.png">
+
+### EXPERIMENT-19
+
+<img width="348" alt="image" src="https://user-images.githubusercontent.com/113408005/212100988-b7407f68-3811-4084-b7ca-af05de63e84b.png">
+<img width="387" alt="image" src="https://user-images.githubusercontent.com/113408005/212101097-bdc3254b-be1e-40d6-9ca9-1c2f291ef074.png">
+
+###EXPERIMENT-20
+
+<img width="353" alt="image" src="https://user-images.githubusercontent.com/113408005/212101256-565847fd-01df-4ddc-be48-4b8416faa94e.png">
+<img width="305" alt="image" src="https://user-images.githubusercontent.com/113408005/212101323-132ffdd2-66b9-4fe9-8b90-b2aa5bbdfbd3.png">
+
+### EXPERIMNET-21
+
+<img width="353" alt="image" src="https://user-images.githubusercontent.com/113408005/212101549-f499a762-467a-4dcf-b5fc-d520eafe1a60.png">
+<img width="313" alt="image" src="https://user-images.githubusercontent.com/113408005/212101587-7235b8f3-ee5f-4a92-bc7b-98f60b342048.png">
+
+### EXPERIMENT-22
+
+<img width="385" alt="image" src="https://user-images.githubusercontent.com/113408005/212101714-6a6ae30f-bb2e-4c3c-92b5-704e642bf047.png">
+
+###EXPERIMENT-23
+
+<img width="366" alt="image" src="https://user-images.githubusercontent.com/113408005/212101813-501e809d-9cc6-4576-99db-5885c4fbb97c.png">
+<img width="237" alt="image" src="https://user-images.githubusercontent.com/113408005/212101854-016b2cb0-104d-4bc2-98b7-7b1f43f414a3.png">
+
+### EXPERIMENT-24
+
+<img width="213" alt="image" src="https://user-images.githubusercontent.com/113408005/212101961-ac1e266e-3aca-40e9-9c2e-6e222e567f8e.png">
+<img width="231" alt="image" src="https://user-images.githubusercontent.com/113408005/212102017-10ca16f3-aa0b-437e-a768-9b5bc9543033.png">
+
+### EXPERIMENT-25
+
+<img width="240" alt="image" src="https://user-images.githubusercontent.com/113408005/212102115-c3e31962-5bd8-4fac-a484-4e43285bbbe7.png">
+<img width="228" alt="image" src="https://user-images.githubusercontent.com/113408005/212102180-7027e7e1-0368-456d-80b4-bb63acfca347.png">
+<img width="238" alt="image" src="https://user-images.githubusercontent.com/113408005/212102235-e73af439-b073-48b4-aa1b-2c624f631e40.png">
+
 
 
 
