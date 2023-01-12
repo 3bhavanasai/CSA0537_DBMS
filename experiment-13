@@ -1,0 +1,16 @@
+mysql> create table calss(register_no int not null,student_name varchar(20) not null,marks int not null,student_grade varchar(1) not null);
+ desc calss;
+ mysql> insert into calss values(001,'ram',98,'S');
+mysql> insert into calss values(002,'shyam',89,'A');
+mysql> insert into calss values(003,'geetha',78,'B');
+mysql> insert into calss values(004,'sita',87,'A');
+mysql> insert into calss values(005,'rajesh',91,'S');
+mysql> insert into calss values(006,'ravan',84,'A');
+ start transaction;
+ mysql> insert into calss values(008,'gagan',90,'A');
+ mysql> savepoint s2;
+ mysql> insert into calss values(009,'ryan',70,'C');
+ mysql> savepoint s3; 
+ mysql> insert into calss values(010,'priya',89,'A');
+ mysql> rollback to s3;
+mysql> select * from calss; 
