@@ -8,7 +8,7 @@ https://github.com/3bhavanasai/CSA0537_DBMS/blob/main/experiment-1
 <img width="566" alt="course stude" src="https://user-images.githubusercontent.com/113408005/211856642-16869382-fa86-4045-8a55-e68623027f48.png">
 <img width="528" alt="modify fac" src="https://user-images.githubusercontent.com/113408005/211856723-6d59876d-8f75-46eb-8167-b596cb79de4a.png">
 
-###EXPERIMENT-2
+### EXPERIMENT-2
 https://github.com/3bhavanasai/CSA0537_DBMS/blob/main/experiment-2
 
 <img width="960" alt="primary" src="https://user-images.githubusercontent.com/113408005/211858555-78e3a2d0-4bb3-4ecb-a7de-3840d207c922.png">
@@ -16,7 +16,7 @@ https://github.com/3bhavanasai/CSA0537_DBMS/blob/main/experiment-2
 <img width="545" alt="unique key" src="https://user-images.githubusercontent.com/113408005/211859606-9e988c3e-351f-4afa-b311-62399102cf50.png">
 <img width="245" alt="check key" src="https://user-images.githubusercontent.com/113408005/211859765-25efa58a-8f56-457d-a8a3-e057574f36a9.png">
 
-###EXPEIMENT-3
+### EXPEIMENT-3
 https://github.com/3bhavanasai/CSA0537_DBMS/blob/main/experiment-3
 
 <img width="513" alt="insert stude" src="https://user-images.githubusercontent.com/113408005/211860402-252abca4-6a7c-4a3b-8277-a075a00c0d47.png">
