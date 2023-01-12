@@ -1,0 +1,4 @@
+select * from student12;
+  create view std_view as
+  select rollno,name,dept from student12;
+   select * from std_view;
