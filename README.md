@@ -37,6 +37,13 @@ https://github.com/3bhavanasai/CSA0537_DBMS/blob/main/experiment-5
 
 ###EXPERIMNET-6
 
+https://github.com/3bhavanasai/CSA0537_DBMS/blob/main/experiment-6
+
+<img width="671" alt="between stude" src="https://user-images.githubusercontent.com/113408005/211975143-46c3b682-e05f-4bab-ab4f-e80202d077be.png">
+<img width="513" alt="in stude" src="https://user-images.githubusercontent.com/113408005/211975181-dc981415-7923-44b3-851c-c3c6570a345a.png">
+
+
+
 
 
 
