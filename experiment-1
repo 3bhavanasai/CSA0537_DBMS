@@ -1,1 +1,7 @@
+CREATE TABLE student(
+Regno int(10),Name varchar(25),Gender char(1),DOB int(10),Mobileno int(10),City varchar(25));
 
+
+CREATE TABLE faculty(
+
+Facno varchar(4),Facname varchar(15),Gender char(1),DOB int(10),DOJ int(10),Mobileno int(10));
