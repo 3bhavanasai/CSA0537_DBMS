@@ -1,0 +1,8 @@
+create database students;
+use students;
+create table students(roll_no int, name char(10), class int, section char(5));
+desc students;
+insert into students(10,'raju',8,'A');
+insert into students values(15,'raju',8,'A');
+insert into students values(16,'ram',8,'A');
+delete from students where roll_no=15;
