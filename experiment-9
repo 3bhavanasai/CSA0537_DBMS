@@ -1,0 +1,10 @@
+use students;
+ create table Student(roll_no int, name char(20),course char(5));
+ insert into Student values(1,'raj','CSE');
+insert into Student values(2,'ram','CSE');
+ insert into Student values(3,'tina','ECE');
+ create table Course(course char(5),course_id int,course_fees int);
+ insert into Course values('CSE',123,2000);
+ SELECT students.roll_no,students.name,Courses.course,Courses.course_fees FROM students JOIN Courses ON students.course = Courses.course;
+select * from students join Courses on students.course=Courses.course;
+select * from students left outer join Courses on students.course=Courses.course;
