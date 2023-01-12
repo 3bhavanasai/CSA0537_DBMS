@@ -1,0 +1,6 @@
+mysql> desc stu;
+mysql> create user ram;
+mysql> grant all on dbms_lab to ram;
+mysql> show grants for ram;
+mysql> revoke all on dbms_lab from ram;
+mysql> show grants for ram;
