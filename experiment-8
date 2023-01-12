@@ -1,0 +1,3 @@
+ use students;
+ select * from students where name='raju';
+ delete from students where roll_no=10;
